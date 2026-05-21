@@ -4,7 +4,7 @@ export const sections = [
   {
     id: 'hero',
     subtitle: <Badge variant="outline" className="text-white border-white">Ключевой контракт 2026</Badge>,
-    title: "Возрождаем промышленность страны.",
+    title: "Возрождаем промышленность страны. Нужны специалисты.",
     showButton: true,
     buttonText: 'Связаться с нами',
     bgImage: 'https://cdn.poehali.dev/projects/4f4d3487-ccb5-44d2-9f74-7a8397e59f0a/files/ba32a1da-b38a-4adb-9810-bda034bdf975.jpg'
